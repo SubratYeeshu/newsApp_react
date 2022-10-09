@@ -1,3 +1,9 @@
 # Preview
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/SubratYeeshu/newsApp_react/blob/main/Preview.gif)
+
+## Desktop View
+![Alt Text](https://github.com/SubratYeeshu/newsApp_react/blob/main/front_page.png)
+
+## Mobile View
+![Alt Text](https://github.com/SubratYeeshu/newsApp_react/blob/main/mobile_view.png)
